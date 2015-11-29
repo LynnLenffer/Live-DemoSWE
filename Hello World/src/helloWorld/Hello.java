@@ -19,7 +19,7 @@ public class Hello extends Application{
 				@Override
 				public void handle(ActionEvent event) {
 
-					System.out.println("Hallo Menschen");
+					System.out.println("Hallo Tiere");
 
 				}
 
